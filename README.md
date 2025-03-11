@@ -8,6 +8,12 @@ L-Tutorial is a standalone FiveM resource that provides an interactive tutorial 
 **Español:**  
 L-Tutorial es un recurso independiente para FiveM que proporciona un sistema de tutoriales interactivo con movimientos de cámara dinámicos y una interfaz de usuario moderna. Perfecto para presentar a los jugadores diferentes ubicaciones y características de tu servidor.
 
+## 🎥 Video Demo | Demostración en Video
+
+[![L-Tutorial Demo](https://i.imgur.com/Xt5YyXR.png)](https://streamable.com/552auk)
+
+*Click on the image above to watch the demo video | Haz clic en la imagen de arriba para ver el video de demostración*
+
 ## ✨ Features | Características
 
 **English:**
