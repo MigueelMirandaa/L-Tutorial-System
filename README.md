@@ -10,9 +10,8 @@ L-Tutorial es un recurso independiente para FiveM que proporciona un sistema de 
 
 ## 🎥 Video Demo | Demostración en Video
 - https://streamable.com/552auk
-[![L-Tutorial Demo](https://imgur.com/o32a3kj)](https://streamable.com/552auk)
 
-*Click on the image above to watch the demo video | Haz clic en la imagen de arriba para ver el video de demostración*
+*Click on the link above to watch the demo video | Haz clic en el link de arriba para ver el video de demostración*
 
 ## ✨ Features | Características
 
